@@ -1,0 +1,19 @@
+ul.vnb{
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+    background-color:rgb(147, 220, 248);
+    width: 200px;
+    font-size: large;
+    line-height: 2em;
+   
+}
+
+li.a1{
+       background-color:rgb(255, 179, 0);
+       color: white;
+}
+
+li.a2{
+    color: blue;
+}
